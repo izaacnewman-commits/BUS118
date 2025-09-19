@@ -1,6 +1,0 @@
-git init
-git remote add origin https://github.com/<you>/<repo>.git
-git checkout -b main    # if main doesn’t exist yet
-git add archive.zip
-git commit -m "Add archive.zip"
-git push -u origin main
